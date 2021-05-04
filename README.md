@@ -1,7 +1,5 @@
 # Image-Processing
-basic
-Image-Processing basic
-hallo  
+28 Image processing problems and exercises
 
 
 
